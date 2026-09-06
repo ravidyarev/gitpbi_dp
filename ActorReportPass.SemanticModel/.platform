@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "ActorReportPass"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "3dc250be-e94b-4c50-a0cc-03c95dbab258"
+  }
+}
